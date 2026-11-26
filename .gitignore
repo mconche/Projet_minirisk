@@ -1,0 +1,6 @@
+*.o
+*.elf
+*.bin
+*.lss
+gold_vm/gold_vm
+minirisc/minirisc
